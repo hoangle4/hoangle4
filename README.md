@@ -1,4 +1,11 @@
-### Hi there 👋
+### I am a Software Developer 👋
+- 📫 How to reach me: [email](mailto:hoanglva@gmail.com)
+
+### Stats 
+___
+<p align="center">
+<img align="" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangle4">
+</p>
 
 <!--
 **hoangle4/hoangle4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
